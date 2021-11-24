@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using WebAppEs.Entity;
 using WebAppEs.Models;
 
 namespace WebAppEs.Data
@@ -15,11 +14,6 @@ namespace WebAppEs.Data
 
 		public DbSet<RoleMenuPermission> RoleMenuPermission { get; set; }
 		public DbSet<NavigationMenu> NavigationMenu { get; set; }
-		public DbSet<MobileRNDFaultsEntry> MobileRNDFaultsEntry { get; set; }
-		public DbSet<MobileRNDPartsModels> MobileRNDPartsModels { get; set; }
-		public DbSet<MobileRNDFaultDetails> MobileRNDFaultDetails { get; set; }
-		public DbSet<MRNDQC_Category> MRNDQC_Category { get; set; }
-		public DbSet<MRNDQC_SubCategory> MRNDQC_SubCategory { get; set; }
 		
 
 		protected override void OnModelCreating(ModelBuilder builder)

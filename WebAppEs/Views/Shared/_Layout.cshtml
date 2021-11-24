@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Hardware QC</title>
+    <title>@ViewData["Title"] - CPQC</title>
     @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
         <link rel="stylesheet" href="~/css/site.css" />*@
     <partial name="Gentelella/_Styles" />
@@ -32,7 +32,7 @@
                 <div style="background-color: #323232!important" class="left_col scroll-view">
                     <div class="navbar nav_title" style="border: 1px solid; background-color: #1c1c1c;">
                         <a style="font-size: 14px;" href="@Url.Action("Index", "Home")" class="site_title">
-                            <img class="" style="height:34px; width:52px; margin:0px" src="~/Logo/waltonlogo.png" /> <span style="color: wheat; font-weight: 600;">&nbsp; &nbsp; Hardware QC</span>
+                            <img class="" style="height:34px; width:52px; margin:0px" src="~/Logo/waltonlogo.png" /> <span style="color: wheat; font-weight: 600;">&nbsp; &nbsp; CPQC</span>
                         </a>
                     </div>
 
@@ -44,7 +44,7 @@
                             <img src="~/build/images/User_Avatar_2.png" alt="..." class="img-circle profile_img">
                         </div>
                         <div style="padding: 39px 10px 10px; width: 65%; float: left; ">
-                            
+
                             <span style="color: bisque;">@HttpContextAccessor.HttpContext.Session.GetString("Name")</span>
                         </div>
                     </div>
@@ -59,13 +59,13 @@
                     <!-- /menu footer buttons -->
                     <div class="sidebar-footer hidden-small">
                         <!--<a data-toggle="tooltip" data-placement="top" title="Settings">-->
-                            @*<span class="glyphicon glyphicon-cog" aria-hidden="true"></span>*@
+                        @*<span class="glyphicon glyphicon-cog" aria-hidden="true"></span>*@
                         <!--</a>
                         <a data-toggle="tooltip" data-placement="top" title="FullScreen">-->
-                            @*<span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>*@
+                        @*<span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>*@
                         <!--</a>
                         <a data-toggle="tooltip" data-placement="top" title="Lock">-->
-                            @*<span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>*@
+                        @*<span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>*@
                         <!--</a>
                         <a data-toggle="tooltip" data-placement="top" title="Logout" href="login.html">
                             <span class="glyphicon glyphicon-off" aria-hidden="true"></span>

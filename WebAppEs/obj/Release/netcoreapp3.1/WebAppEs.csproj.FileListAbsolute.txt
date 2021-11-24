@@ -1,0 +1,998 @@
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\appsettings.Development.json
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\appsettings.json
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.StaticWebAssets.xml
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.exe
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.deps.json
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.runtimeconfig.json
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.runtimeconfig.dev.json
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.pdb
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.CSharp.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\mscorlib.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\netstandard.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.AppContext.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Buffers.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.Specialized.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Configuration.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Console.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Data.Common.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Data.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Drawing.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Globalization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Pipelines.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Pipes.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.Expressions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.Parallel.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.Queryable.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Memory.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Http.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.HttpListener.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Mail.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.NameResolution.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Ping.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Requests.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Security.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Sockets.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebClient.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebProxy.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebSockets.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Numerics.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ObjectModel.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Emit.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Resources.Reader.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Resources.Writer.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Handles.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Loader.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.AccessControl.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Claims.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Permissions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Principal.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.SecureString.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ServiceProcess.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encoding.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Channels.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Thread.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Timer.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Transactions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Transactions.Local.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ValueTuple.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Web.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Windows.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Windows.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.Linq.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.Serialization.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XDocument.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XPath.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\WindowsBase.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.Views.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.Views.pdb
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Text.Json.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.AssemblyInfoInputs.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.AssemblyInfo.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.csproj.CoreCompileInputs.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.MvcApplicationPartsAssemblyInfo.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.MvcApplicationPartsAssemblyInfo.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorAssemblyInfo.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorAssemblyInfo.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\staticwebassets\WebAppEs.StaticWebAssets.Manifest.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\staticwebassets\WebAppEs.StaticWebAssets.xml
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\scopedcss\bundle\WebAppEs.styles.css
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.TagHelpers.input.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.TagHelpers.output.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorCoreGenerate.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\CreateFaultsInfo.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\FaultsDetails.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\FullPreview.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\Index.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\AddUser.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditRolePermission.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\Roles.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\ProductModel\CreateModel.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\ProductModel\Index.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Report\Index.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Components\SidebarMenu\SidebarMenuView.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Footer.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Layout.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Scripts.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Sidebar.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Styles.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_TopNavigation.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorTargetAssemblyInfo.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorTargetAssemblyInfo.cs
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.Views.pdb
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.csproj.CopyComplete
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.pdb
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.genruntimeconfig.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\RdlCompile.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\RdlCompile.compiled
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ClosedXML.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.csproj.AssemblyReference.cache
+F:\Estiak\Resources\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Report\PrintDetails.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\appsettings.Development.json
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.StaticWebAssets.xml
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\appsettings.json
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.exe
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.deps.json
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.runtimeconfig.json
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.runtimeconfig.dev.json
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.pdb
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.CSharp.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\mscorlib.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\netstandard.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.AppContext.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Buffers.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Collections.Specialized.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Configuration.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Console.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Data.Common.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Data.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Drawing.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Globalization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Pipelines.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.Pipes.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.Expressions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.Parallel.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Linq.Queryable.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Memory.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Http.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.HttpListener.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Mail.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.NameResolution.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Ping.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Requests.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Security.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.Sockets.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebClient.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebProxy.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Net.WebSockets.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Numerics.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ObjectModel.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Emit.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Resources.Reader.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Resources.Writer.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Handles.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Loader.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.AccessControl.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Claims.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Permissions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Principal.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Security.SecureString.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ServiceProcess.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encoding.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Channels.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Thread.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Threading.Timer.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Transactions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Transactions.Local.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.ValueTuple.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Web.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Windows.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Windows.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.Linq.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.Serialization.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XDocument.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XPath.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\refs\WindowsBase.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.Views.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\WebAppEs.Views.pdb
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ClosedXML.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\DocumentFormat.OpenXml.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ExcelNumberFormat.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.IO.Packaging.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\System.Text.Json.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\Hardware QC\WebAppEs\WebAppEs\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.csproj.AssemblyReference.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.GeneratedMSBuildEditorConfig.editorconfig
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.AssemblyInfoInputs.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.AssemblyInfo.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.csproj.CoreCompileInputs.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.MvcApplicationPartsAssemblyInfo.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.MvcApplicationPartsAssemblyInfo.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorAssemblyInfo.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorAssemblyInfo.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\staticwebassets\WebAppEs.StaticWebAssets.Manifest.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\staticwebassets\WebAppEs.StaticWebAssets.xml
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\scopedcss\bundle\WebAppEs.styles.css
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.TagHelpers.input.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.TagHelpers.output.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorCoreGenerate.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\CreateFaultsInfo.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\FaultsDetails.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\FullPreview.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\AddFaultsInfo\Index.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\AddUser.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\CreateRole.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditRolePermission.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\EditUser.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\Roles.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Category\CreateCategory.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\ProductModel\CreateModel.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\ProductModel\Index.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Report\Index.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Report\PrintDetails.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Components\SidebarMenu\SidebarMenuView.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Footer.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Layout.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Scripts.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Sidebar.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_Styles.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\Gentelella\_TopNavigation.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\SubCategory\CreateSubCategory.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\SubCategory\Index.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorTargetAssemblyInfo.cache
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.RazorTargetAssemblyInfo.cs
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.Views.pdb
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.csproj.CopyComplete
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.dll
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.pdb
+H:\Hardware QC\WebAppEs\WebAppEs\obj\Release\netcoreapp3.1\WebAppEs.genruntimeconfig.cache

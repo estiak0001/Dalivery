@@ -204,5 +204,9 @@
     <None Include="wwwroot\vendors\parsleyjs\bower_components\uwidget\uwidget.js" />
     <None Include="wwwroot\vendors\parsleyjs\bower_components\uwidget\uwidget.less" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entity\" />
+    <Folder Include="wwwroot\build\js\" />
+  </ItemGroup>
 
 </Project>

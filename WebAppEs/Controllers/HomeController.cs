@@ -8,7 +8,6 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using WebAppEs.ViewModel.Home;
 using System;
-using WebAppEs.Views.NewFolder;
 
 namespace WebAppEs.Controllers
 {
@@ -38,9 +37,7 @@ namespace WebAppEs.Controllers
 			var lastSevenDayStart =  DateTime.Today.AddDays(-7);
 			var lastMonthDayStart = DateTime.Today.AddDays(-30);
 
-			var LastEntryDate = _dataAccessService.LastDate();
-
-			var chartdata = _dataAccessService.GetSingelDayData(LastEntryDate);
+	
 
 			DashboasrViewModel dashboard = new DashboasrViewModel();
 			
@@ -51,15 +48,7 @@ namespace WebAppEs.Controllers
 				return RedirectToAction("Logout", "Account");
 			}
 
-			dashboard = _dataAccessService.GetDashboardData(yesterday, lastSevenDayStart, lastMonthDayStart);
-			if (chartdata.Lavel != null)
-			{
-				dashboard.Lavel = chartdata.Lavel;
-				dashboard.FunctionalFaultsPercentageViewModel = chartdata.FunctionalFaultsPercentageViewModel;
-				dashboard.AestheticFaultsPercentageViewModel = chartdata.AestheticFaultsPercentageViewModel;
-			}
-			//li
-			dashboard.Date = LastEntryDate;
+			
 			return View(dashboard);
 		}
 		//[Authorize("Authorization")]
@@ -78,14 +67,7 @@ namespace WebAppEs.Controllers
 		public JsonResult LoadChartDataBayFilter(DateTime Date)
 		{
 			DashboasrViewModel dashboard = new DashboasrViewModel();
-			var chartdata = _dataAccessService.GetSingelDayData(Date);
-			if (chartdata.Lavel != null)
-			{
-				dashboard.Lavel = chartdata.Lavel;
-				dashboard.FunctionalFaultsPercentageViewModel = chartdata.FunctionalFaultsPercentageViewModel;
-				dashboard.AestheticFaultsPercentageViewModel = chartdata.AestheticFaultsPercentageViewModel;
-			}
-
+			
 			return Json(dashboard);
 		}
 
